@@ -1,7 +1,7 @@
 <h2> 🌷 Hi, I'm Ana</h2>
 <p> 👩🏼‍💻 A frontend developer from Brasil, since 2013.</p>
 
-<h4 align="left">Languages and Tools</h4>
+<h4 align="left">Learning Languages and Tools</h4>
 <p align="left" > 
   📲
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" height="20"/>
